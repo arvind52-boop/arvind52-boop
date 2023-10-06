@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 <h1 align="center">Hi 👋, I'm Arvind Kumar</h1>
 <h3 align="center">A passionate software engineer and full stack developer</h3>
 
