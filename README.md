@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arvind52-boop&label=Profile%20views&color=0e75b6&style=flat" alt="arvind52-boop" /> </p>
 
-- 🔭 I’m currently working on **Instagram Clone Website**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
